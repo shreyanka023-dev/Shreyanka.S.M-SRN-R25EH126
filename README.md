@@ -1,8 +1,14 @@
 2D Graphics Editor in C
-STUDENT NAME: Shreyanka.S.M SRN:R25EH126
+
+STUDENT NAME: Shreyanka.S.M 
+SRN:R25EH126
+
 Description 
+
 A menu-driven 2D Graphics Editor implemented using a 2D character array.
+
 Featurs 
+
   Draw Rectangle
   Draw Line 
   Draw Circle
@@ -11,8 +17,15 @@ Featurs
   Modify Objects
   Display Picture 
   List Objects
+  
 Language Used 
+
 C Programming
+
 How to Run
-Compile: gcc graphics_editor.c-oeditor
-Run: ./editor
+
+Compile: 
+gcc graphics_editor.c -o editor
+
+Run: 
+./editor
